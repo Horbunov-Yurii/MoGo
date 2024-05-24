@@ -1,0 +1,18 @@
+/* 
+@font-face {
+  font-family: 'Kaushan Script';
+  src: url(../fonts/Kaushan_Script/);
+  src: url(../fonts/Kaushan_Script/KaushanScript-Regular.ttf);
+} */
+
+
+
+.text {
+   font-family: "Kaushan Script"; 
+   font-weight: 900;
+   font-size: 70px;
+   text-align: center;
+   outline: 1px solid red;
+   width: 700px;
+   line-height: 1.45;
+}
